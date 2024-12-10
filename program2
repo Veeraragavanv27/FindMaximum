@@ -1,0 +1,9 @@
+''' 
+Program to find the maximum marks using the list method max().
+Developed by: VEERARAGAVAN V
+RegisterNumber: 23004739
+'''
+def max_marks(marks):
+    # write your code here
+    a=max(marks)
+    return a
