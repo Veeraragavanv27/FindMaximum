@@ -1,0 +1,9 @@
+''' 
+Program to mark the maximum of marks using the list method sort
+Developed by: VEERARAGAVAN V
+RegisterNumber:23004739 
+'''
+def max_marks(marks):
+    marks.sort()
+    a=marks[-1]
+    return a
